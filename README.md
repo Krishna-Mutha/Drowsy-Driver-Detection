@@ -82,7 +82,6 @@ Cannot be uploaded to GitHub due to its large size.
 ```bash
 git clone https://github.com/your-username/drowsy-driver-detection.git
 cd drowsy-driver-detection
-### 2. Install dependencies
 ```
 ### 2. Install dependencies
 ```bash
