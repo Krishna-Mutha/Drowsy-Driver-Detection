@@ -99,7 +99,7 @@ Note: Installing dlib may require CMake and Visual Studio Build Tools on Windows
 
 ### 4. Run the project
 ```bash
-python main.py
+python project.py
 ```
 
 ---
